@@ -1,0 +1,40 @@
+@media (min-width: 375px) {
+    body{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: hsl(212, 45%, 89%);
+    }
+
+    .qr-code-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 15px;
+        width: 85%;
+        height: 63%;
+        margin: auto;
+        background-color: white;
+        padding-bottom: 7%;
+    }
+
+    .container-text{
+        text-align: center;
+        margin: 0 5% 0 5%;
+    }
+
+    .container-text p{
+        font-size: 15px;
+        opacity: 40%;
+    }
+
+    .img-qr-code{
+        width: 90%;
+        margin-top: 5%;
+        border-radius: 4%;
+    }
+}

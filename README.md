@@ -24,7 +24,7 @@ Obrigado por conferir este desafio de código front-end.
 
 [Frontend Mentor](https://www.frontendmentor.io) desafios ajudam você a melhorar suas habilidades com programação por meio da construção de projetos realísticos.
 
-**Para realizar esse desafio, você vai precisar de conhecimnetos básicos de HTML e CSS.**
+**Para realizar esse desafio, você vai precisar de conhecimentos básicos de HTML e CSS.**
 
 ## O desafio
 
